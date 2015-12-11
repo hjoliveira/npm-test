@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "Test NPM package",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hjoliveira/npm-test.git"
+  },
+  "author": "hjoliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjoliveira/npm-test/issues"
+  },
+  "homepage": "https://github.com/hjoliveira/npm-test#readme"
+}
